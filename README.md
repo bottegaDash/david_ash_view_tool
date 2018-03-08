@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DavidAshViewTool::Renderer.copyright 'David Ash', 'All rights reserved'
+```
 
 ## Development
 
